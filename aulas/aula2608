@@ -1,0 +1,12 @@
+1) Escolham DUAS decisões do seu Trabalho 1: uma reversível, uma não
+2) Situem cada uma nos dois eixos, com uma linha de justificativa
+3) Digam o que muda no que vocês vão fazer amanhã por causa disso
+
+REVERSÍVEL
+- Decisão: Trocar o limite de empréstimos abertos por alunos
+- O que muda: É só uma troca de constantes
+
+IRREVERSÍVEL
+- Decisão: Colocar o identificador de alunos como matrícula
+- O que muda: Muda a chave do modelo e invalida
+todo registro já criado
